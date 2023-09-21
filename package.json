@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@types/node": "^20.6.2",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2"
+  },
+  "name": "atividade-pratica---modelagem-de-objetos-em",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon ./src/index.ts",
+    "1": "nodemon ./src/1.ts",
+    "2": "nodemon ./src/2.ts",
+    "3": "nodemon ./src/3.ts",
+    "4": "nodemon ./src/4.ts",
+    "5": "nodemon ./src/5.ts",
+    "6": "nodemon ./src/6.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
